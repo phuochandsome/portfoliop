@@ -1,1 +1,16 @@
+.background img{
+    width:170px;
+    height:auto;
+    padding:10px;
+}
+.background{
+    background-color: #3A2E85;
+    width:190px;
+    height:auto;
+    
+}
+.background p{
+    color:#FFD740;
+    padding:10px;
 
+}
