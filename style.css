@@ -29,3 +29,38 @@
 .favorites, footer{
     margin-top:20px;
 }
+.link-header{
+    text-decoration: none;
+    border: 3px solid green;
+    padding:5px;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+
+}
+.link-nav{
+    text-decoration: none;
+    border: 3px solid green;
+    padding:5px;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+.website-developer img{
+    width:210px;
+    height:auto;
+
+}
+.website-developer p{
+    font-size:large;
+    color:black;
+}
+.title{
+    text-align:center;
+}
+.website-developer{
+    display:flex;
+    
+}
