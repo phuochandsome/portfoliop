@@ -62,5 +62,16 @@ nav{
 }
 .website-developer{
     display:flex;
+    border:3px dotted blue;
+    justify-content: space-around;
+    background-color: ;
     
+}
+.background:hover{
+    width:300px;
+    height:auto;
+}
+.background img:hover{
+    width:270px;
+    height:auto;
 }
