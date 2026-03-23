@@ -1,11 +1,11 @@
 .background img{
-    width:170px;
+    width:200px;
     height:auto;
-    padding:10px;
+    padding:20px;
 }
 .background{
     background-color: #3A2E85;
-    width:190px;
+    width:250px;
     height:auto;
     
 }
@@ -13,4 +13,19 @@
     color:#FFD740;
     padding:10px;
 
+}
+
+.background h2{
+    color:white;
+    text-align:center;
+    
+}
+
+
+.sports ,.favorites{
+    display:flex;
+    justify-content: space-around;
+}
+.favorites, footer{
+    margin-top:20px;
 }
